@@ -1,0 +1,9 @@
+1.- Crear un programa que imprima tu nombre 100 veces usando ciclos
+
+2.- Crear un programa que lea base y altura y calcule el area de un triangulo, el imprima el resultado.
+
+3.- Crear un programa que defina un array de enteros de una dimension, almacena 100 numeros y los imprima
+
+4.- Crear un programa que defina una matriz de 3 x 3, la inicialize con -1, y ponga en ceros su diagonal
+
+5.- Definir 2 matrices (A y B) de 8 x 8 y calcule la resta en C, imprimir C
